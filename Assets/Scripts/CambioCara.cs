@@ -50,6 +50,7 @@ public class CambioCara : MonoBehaviour
         if (indexModelo == modelos.Count)
         {
             indexModelo = 0;
+
         }
 
 
